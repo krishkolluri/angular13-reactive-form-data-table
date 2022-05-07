@@ -2,6 +2,7 @@
 
 
 Application example built with [Angular](https://angular.io/) 13 and creating and validating a reactive form.
+Bootstrap 5 
 
 
 
