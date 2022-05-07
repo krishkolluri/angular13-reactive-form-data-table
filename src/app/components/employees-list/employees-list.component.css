@@ -1,0 +1,32 @@
+.header-page{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(47, 52, 78);
+    height: 70px;
+}
+
+.header-manage-employee{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white; 
+    font-size: 32px
+}
+
+.warning-delete-record{
+    color: #ffc800; 
+}
+#modal-basic-title{
+    color: rgb(47, 52, 78);
+}
+.delete-icon{
+    color: red;
+     cursor: pointer
+}
+.edit-icon{
+    color: #ffc800; 
+    cursor: pointer
+}
